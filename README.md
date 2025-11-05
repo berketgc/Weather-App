@@ -1,6 +1,6 @@
 # Weather App 🌤️
 
-lİVE: https://vercel.com/berkes-projects-41d9fa5a/weather-app-qkd4
+LİVE: https://vercel.com/berkes-projects-41d9fa5a/weather-app-qkd4
 A simple React web application to check the weather of any city.
 
 ## Features
